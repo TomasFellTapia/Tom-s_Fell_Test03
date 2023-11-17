@@ -1,0 +1,13 @@
+*{
+    font-family: roboto;
+}
+.imagen{
+    height: 20%;
+}
+.muetras{
+    margin: 10px;
+    display: inline-block;
+}
+.muestras img{
+    height: 40%;
+}
